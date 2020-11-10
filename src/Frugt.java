@@ -8,6 +8,14 @@
 public class Frugt extends Varer {
 
     void coolDown() {
+
         System.out.println("Æblerne køles ned.");
+    }
+
+    void saleOnSummer() {
+        System.out.println("Sommeren, jun til august");
+    }
+    void saleWholeSeosen() {
+        System.out.println("Salger altid");
     }
 }

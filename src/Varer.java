@@ -10,6 +10,7 @@ import java.util.Date;
 public class Varer {
 
     double stykpris;
+    double pakkepris;
     Date holdbarhed;
     boolean kanSælges = true;
 
